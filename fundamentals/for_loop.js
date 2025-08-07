@@ -5,7 +5,7 @@
 const naam="vaishnav";
 let len=naam.length;
 
-for(i=0;i<len;i++){
+for(let i=0;i<len;i++){
     console.log(naam[i])
 }
 
