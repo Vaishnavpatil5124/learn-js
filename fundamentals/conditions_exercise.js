@@ -23,7 +23,7 @@ else{
     console.log(`the smallest string is nothing`)
 }
 
-
+// output depends upon the condition
 
 
 
