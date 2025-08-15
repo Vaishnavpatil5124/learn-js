@@ -10,6 +10,4 @@ const readlinesync=require("readline-sync");
 const input1=Number(readlinesync.question("enter starting point"));
 const input2=Number(readlinesync.question("enter ending point"));
 
-
-
 console.log(`the sum is ${sum(input1,input2)}`);
