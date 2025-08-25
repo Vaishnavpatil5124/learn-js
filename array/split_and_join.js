@@ -8,5 +8,5 @@ const input="madam";
 const arrofchar=input.split("");
 console.log(arrofchar);
 
-input.reverse().join("");
-console.log(input);
+let arrrev=arrofchar.reverse().join("");
+console.log(arrrev);
