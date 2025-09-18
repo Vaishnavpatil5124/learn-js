@@ -16,6 +16,7 @@ function getobj(name,age){
         name,
         age
     }
+
 }
 
 const obj=getobj("vaishnav",19);

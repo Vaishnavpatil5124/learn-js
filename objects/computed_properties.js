@@ -1,4 +1,5 @@
 /**adding property to object */
+/**computing refers to calculating or knowing  what the value is and is computed inside a square bracket[] */
 
 const readlineSync=require("readline-sync");
 const input=readlineSync.question("what do you want to know about the mentor(name/age/city/state)")

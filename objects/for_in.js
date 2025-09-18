@@ -1,4 +1,4 @@
-/**proprty existence */
+/**property existence */
 
 const obj= {
     name:"vaishnav",
@@ -10,5 +10,5 @@ console.log(isfound);
 
 // object doesnt supporting indexing so use-->> for in
 for(let item in obj){
-    console.log(item,obj[item]);
+   console.log(item,obj[item]);
 }

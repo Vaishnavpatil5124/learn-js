@@ -10,4 +10,4 @@ const obj={
 console.log(obj);
 console.log(obj.age);
 console.log(obj["name"]);
-console.log(obj["is admin"]);
+console.log(obj["is admin"]); 
